@@ -1,0 +1,3 @@
+In Python you can loop through lists.
+In Python you can create dictionaries.
+In Python you can pass keyword args to functions.
